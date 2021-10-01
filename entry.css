@@ -1,0 +1,121 @@
+article, aside, details, figcaption, figure, footer, header, hgroup, main, nav, section, summary {
+    display: block;
+    background: #323232;
+}
+#story-reading #parts-container-new .first-page .panel-reading pre {
+    background: #323232;
+    color: #dbdbdb;
+}
+.panel-reading {
+    background: #323232;
+}
+.col-sm-12 {
+    background: #323232;
+    color: #dbdbdb;
+}
+#story-reading header.panel-reading h1 {
+    color: #dbdbdb;
+}
+.route-storyReading #header-container #header {
+    background: #323232;
+}
+#funbar {
+    background-color: #323232;
+}
+#header-container #header #login-menu>a, #header-container #header #profile-dropdown>a, #header-container #header>nav>ul>li>a {
+    color: #dbdbdb;
+}
+#funbar-story .info .title {
+    color: #dbdbdb;
+}
+.fa-wp-neutral-1 {
+    color: #dbdbdb;
+}
+.center-block {
+    color: #dbdbdb;
+}
+#funbar-story .btn-toc {
+    border-right: 0px;
+}
+#funbar-story {
+    border-right: 0px;
+}
+#funbar-controls>.btn:before, #funbar-controls>.button-group:before {
+    border-right: 0px;
+    border-left: 0px;
+}
+#funbar-story .btn-toc:hover .info .title {
+    color: black;
+}
+#story-landing #comments .comment .username, #story-landing .comments .comment .username, #story-reading #comments .comment .username, #story-reading .comments .comment .username {
+    color: #dbdbdb;
+}
+#footer-container {
+    background-color: #323232;
+}
+.footer-list li a {
+    color: #dbdbdb;
+}
+.footer-list.legal li a {
+    color: #dbdbdb;
+}
+pre {
+    color: #dbdbdb;
+}
+.discover-rows {
+    margin-top: 2px;
+    background-color: #323232;
+}
+.discover-rows .discover-module .module-title {
+    color: #fff;
+}
+.discover-rows .discover-module .title {
+    color: #dbdbdb;
+}
+body {
+    color: #dbdbdb;
+}
+#inline-comments-modal .paragraph {
+    background-color: #323232;
+}
+#story-landing #comments .comment, #story-landing .comments .comment, #story-reading #comments .comment, #story-reading .comments .comment {
+    background-color: #323232;
+}
+#story-reading .new-post {
+    background: #323232;
+}
+#inline-comments-modal .modal-content {
+    background: #323232;
+}
+.on-showmore {
+    background : #000;
+    color : #dbdbdb;
+}
+#header-container #header {
+    background-color: #323232;
+    border-bottom: 1px solid #eee;
+}
+.home-sections-wrapper {
+    background: #323232;
+}
+.home-sections-wrapper .story-swimlane.paid {
+    background-color: #514548;
+}
+.home-sections-wrapper .cta.module.paid {
+    background-color: #514548
+}
+p , h2, h3, h4, .title, .link {
+    color : #dbdbdb !important;
+}
+.home-sections-wrapper .hero {
+    background-color: #6a534f;
+}
+.home-sections-wrapper .cta.module.paid .btn-secondary.paid {
+    color: #dbdbdb !important;
+}
+svg:not(:root) {
+    stroke: #dbdbdb;
+}
+.tag-item {
+    color : black !important;
+}
